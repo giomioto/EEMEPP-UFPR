@@ -4,4 +4,6 @@ Esse repositório refere-se aos códigos desenvolvidos para o projeto Eficiênci
 
 [SITE DO PROJETO EEMEPP UFPR](https://eemepp.eletrica.ufpr.br) <br>
 
+![UTFPR](https://utfpr-ct-static-content.s3.amazonaws.com/utfpr.curitiba.br/wp-content/uploads/sites/7/2019/11/utfpr1.png)
+
 ![DELTUFPR](https://www.eletrica.ufpr.br/sebastiao/wa_images/logo_delt.png) <br>
