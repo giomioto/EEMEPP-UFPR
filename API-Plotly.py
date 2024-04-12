@@ -27,7 +27,7 @@ setInterval = int(input("Intervalo: "))
 start_time = int(time.mktime(_startDateUNIX.timetuple()))
 end_time = int(time.mktime(_endDateUNIX.timetuple()))
 
-key = "apikey=03fb6f947420dbf25e30e240b4fbd1b4"
+key = "apikey="
 
 # Acessando os dados do canopus
 
